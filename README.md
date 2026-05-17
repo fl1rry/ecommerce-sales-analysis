@@ -46,7 +46,8 @@ The interactive Tableau dashboard is available here:
 
 ### Sales Overview
 
-![Sales Overview](images/sales_overview_dashboard.png)
+![Sales Overview](ecommerce-sales-analysis
+/Sales Overview.png)
 
 ### Traffic & User Behavior
 
