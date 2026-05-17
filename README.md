@@ -51,16 +51,3 @@ The interactive Tableau dashboard is available here:
 ### Traffic & User Behavior
 
 ![Traffic & User Behavior](images/traffic_user_behavior_dashboard.png)
-
-## Repository Structure
-
-```text
-.
-├── README.md
-├── ecommerce_sales_analysis.ipynb
-├── sql/
-│   └── final_dataset_query.sql
-├── images/
-│   ├── sales_overview_dashboard.png
-│   └── traffic_user_behavior_dashboard.png
-└── requirements.txt
